@@ -1,10 +1,14 @@
 
-![banner](./banner.png)
-
 <h1 align="center">Hi 👋, I'm Rudio</h1>
 <h3 align="center">An engineering student in Applied Mathematics and Computer Science.</h3>
 
-- 🔭 I’m interested in **Machine learning and Deep learning**
+## ⚡ Technologies
+Talk to me about:
+- Programming in **C, Python**.
+- Machine Learning and Deep Learning with **Python frameworks**.
+- High Performance Computing in **C/C++**.
+- Making for **Relational Database Management Systems**.
+- Data analysis/science in **R**. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,8 +22,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudiio&show_icons=true&locale=en" alt="rudiio" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudiio&" alt="rudiio" /></p>
-
+## 🔭 Projects Overview
+<img src="./banner.png" alt="drawing"/>
 
 <!--
 **Rudiio/Rudiio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
