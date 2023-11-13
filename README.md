@@ -7,7 +7,6 @@ Talk to me about:
 - Programming in **C, Python**.
 - Machine Learning and Deep Learning with **Python frameworks**.
 - High Performance Computing in **C/C++**.
-- Making for **Relational Database Management Systems**.
 - Data analysis/science in **R**. 
 
 <h3 align="left">Connect with me:</h3>
