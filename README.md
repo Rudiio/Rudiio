@@ -8,7 +8,7 @@ Talk to me about:
 - Programming in **C, Python, C++, R**.
 - Machine Learning and Deep Learning with **Python frameworks**.
 - High Performance Computing in **C/C++**.
-- Data analysis/science in **R**.
+- Data analysis/science in **R** and **Python**.
 - Robotic programming with **ROS2**.
 - Numerical simulations in **C, Python**.
 
