@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rudio</h1>
 <h3 align="center">An engineering student in Applied Mathematics and Computer Science.</h3>
+<h3 align="center">🚀Seeking to be an AI Software Engineer.</h3>
 
 ## ⚡ Technologies
 Talk to me about:
