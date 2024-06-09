@@ -5,9 +5,10 @@
 
 ## ⚡ Technologies
 Talk to me about:
-- Programming in **Python, C, C++, R**.
+- Programming in **Python, C, C++, R, Typescript**.
 - Machine Learning and Deep Learning with **Scikit-learn**, **Pytorch** and **Keras**.
-- Software engineering in Python with **FastAPI** and **Flask**.
+- Backend developpment in Python with **FastAPI** and **Flask**.
+- Fronted developpment with **Typescript**, **React**, **TailwindCSS**.
 - LLM engineering with **Langchain**.
 - High Performance Computing in **C/C++**.
 - Data analysis/science in **R** and **Python**.
