@@ -27,7 +27,18 @@ Talk to me about:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudiio&show_icons=true&locale=en" alt="rudiio" /></p>
 
 ## 🔭 Projects Overview
+
+### Academic and personal project
 <img src="./banner.png" alt="drawing"/>
+
+### Devchain/Devchain-studio (End-of-studies intership project)
+<div align="center">
+<img src="./Devchain_logo.svg" height=100 width=200 alt="drawing" class="center"/>
+</div>
+
+DevChain is an AI powered application that helps you build software by providing code. It relies on a multi-agent system to simulate the developpment life cycle, following more or less the Scrumban methodology. It is built on top of the Langchain framework. Each agent of the system will be powered and simulated by a Large Language Model (LLM).
+
+<img src="./devchain-studio.png" alt="drawing"/>
 
 <!--
 **Rudiio/Rudiio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
